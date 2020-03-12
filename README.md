@@ -103,5 +103,5 @@ $ ./docker-build-wrapper --squash .
 
 ## Where to go from here
 
-See `main.go` for getting the code right, and `go.sum` for getting the
+See `main.go` for getting the code right, and `go.mod.gen` for getting the
 dependency versions right.
